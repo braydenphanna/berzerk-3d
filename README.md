@@ -8,6 +8,7 @@ Berzerk 3D is a work-in-progress attempt to recreate the classic 1980 video game
 - [x] Collision Detection
 - [ ] Strafing left and right
 - [ ] Enemy Sprites
+- [ ] FPS Mechanics
 - [ ] Title Screen
 - [ ] HUD
 - [x] Click the \` key to open the 2D view
